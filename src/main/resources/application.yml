@@ -1,0 +1,6 @@
+artifactory:
+  host: <artifactory_hostname>
+  port: 80
+  user:
+    name: <artifactory_user>
+    pw: <user_pw>

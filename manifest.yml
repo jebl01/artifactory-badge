@@ -1,0 +1,5 @@
+applications:
+- name: artifactory-badge
+  memory: 512M
+  instances: 1
+  path: target/artifactory-badge-0.0.1-SNAPSHOT.jar
